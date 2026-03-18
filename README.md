@@ -7,7 +7,10 @@
 
 A community-driven reference for discovering **exposed AI infrastructure** across the modern AI stack. This resource maps the attack surface of publicly exposed AI systems, from leaked API keys to unprotected inference servers, agent orchestrators, and vector databases.
 
-This research was first presented at **Nullcon Goa 2026** in the talk *"No CVE for That: Invisible Breach Path from AI Leftovers"* and is now being made public. Slides: [slideshare.net](https://www.slideshare.net/slideshow/no-cve-for-that-ai-exposures-explained/286453463)
+This research was first presented at **Nullcon Goa 2026** in the talk *"No CVE for That: Invisible Breach Path from AI Leftovers"* and is now being made public.
+
+- Slides: [slideshare.net](https://www.slideshare.net/slideshow/no-cve-for-that-ai-exposures-explained/286453463)
+- Blog: [AI Exposure and CTEM: The Next Frontier of External Risk](https://redhuntlabs.com/blog/ai-exposure-and-ctem-the-next-frontier-of-external-risk/)
 
 > **Intended Use:** Security research, bug bounty, authorized pentesting, and defensive monitoring. Always obtain proper authorization before probing systems you do not own.
 
